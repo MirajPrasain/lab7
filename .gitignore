@@ -1,0 +1,4 @@
+node_modules/
+encrypt/public.pem
+encrypt/private.pem
+password.txt
